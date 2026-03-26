@@ -2,6 +2,7 @@
 
 ## 👩‍💻 About Me
 Bachelor (Honors) : RMIT - Electronic and computer system engineering
+
 Master : University of Sydney - Electrical Engineering specializing in AI
 
 ## 🛠 Skills
