@@ -1,10 +1,24 @@
 # list_basic.py
-# Topic: List Basics
+# Topic: Python List Basics
 
+"""
+This file shows basic list usage in Python:
+- creating a list
+- accessing elements
+- modifying elements
+- checking length
+"""
+
+# create a list
 lst = [1, 2, 3]
 
-print(lst[0])
-print(len(lst))
+# access elements
+print("First item:", lst[0])
+print("Second item:", lst[1])
 
+# modify an element
 lst[0] = 10
-print(lst)
+print("Modified list:", lst)
+
+# length of list
+print("Length of list:", len(lst))
