@@ -16,4 +16,5 @@ Master : University of Sydney - Electrical Engineering specializing in AI
 - Signal Processing
 
 ## 📂 Projects
-
+- [Digital-Signal-Processing](./Digital-Signal-Processing) (ELEC9305)
+- [Intelligence-Visual-Signal-Understanding](./Intelligence-Visual-Signal-Understanding) (ELEC5304)
